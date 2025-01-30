@@ -2,6 +2,7 @@
 
 [![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://exp-trk-github-io.vercel.app/)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 A modern landing page for ExpenseTracker - Your ultimate financial management solution. Designed to showcase key features and convert visitors into users.
 
 ## 🚀 Live Demo
