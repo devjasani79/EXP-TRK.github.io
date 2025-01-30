@@ -68,11 +68,11 @@ const Navbar = () => {
           </button>
         </div>
         <ul className="space-y-8 p-6">
-          <li><a href="#home" className="hover:text-blue-400" onClick={toggleMenu}>Home</a></li>
+          <li><a href="#HeroSection" className="hover:text-blue-400" onClick={toggleMenu}>Home</a></li>
           <li><a href="#services" className="hover:text-blue-400" onClick={toggleMenu}>Services</a></li>
-          <li><a href="#reviews" className="hover:text-blue-400" onClick={toggleMenu}>Reviews</a></li>
+          <li><a href="#Reviews" className="hover:text-blue-400" onClick={toggleMenu}>Reviews</a></li>
           <li><a href="#contact" className="hover:text-blue-400" onClick={toggleMenu}>Contact</a></li>
-          <li><a href="#faq" className="hover:text-blue-400" onClick={toggleMenu}>FAQ</a></li>
+          <li><a href="#FAQ" className="hover:text-blue-400" onClick={toggleMenu}>FAQ</a></li>
         </ul>
       </div>
     </nav>
