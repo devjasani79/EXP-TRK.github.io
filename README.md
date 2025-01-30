@@ -44,4 +44,4 @@ https://exp-trk-github-io.vercel.app/
 
 1. Clone repository
 ```bash
-git clone https://github.com/your-username/expense-tracker-landing.git
+git clone https://github.com/devjasani79/EXP-TRK.github.io
